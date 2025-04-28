@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+
+# Robot Framework output files
+*.log
+*.xml
+*.html
+
+# Playwright reports
+test-results/
+playwright-report/
+
+# Screenshots
+screenshot/
+screenshots/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env files
+.env
