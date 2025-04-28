@@ -1,24 +1,35 @@
-# Virtual environment
-venv/
-
-# Robot Framework output files
-*.log
-*.xml
-*.html
-
-# Playwright reports
-test-results/
-playwright-report/
-
-# Screenshots
-screenshot/
-screenshots/
-
-# Python cache
+# =========================
+# Python-related
+# =========================
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Env files
+# =========================
+# Virtual Environment
+# =========================
+venv/
 .env
+
+# =========================
+# Robot Framework Outputs
+# =========================
+*.log
+*.xml
+*.html
+
+# (Optional) Ignore logs folder
+logs/
+
+# =========================
+# Screenshots (auto-generated)
+# =========================
+screenshot/
+screenshots/
+
+# =========================
+# Playwright Reports (ถ้ามีใช้ Playwright)
+# =========================
+test-results/
+playwright-report/
