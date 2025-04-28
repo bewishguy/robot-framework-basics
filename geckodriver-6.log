@@ -1,0 +1,18 @@
+1745243975974	geckodriver	INFO	Listening on 127.0.0.1:53423
+1745243979038	mozrunner::runner	INFO	Running command: "C:\\Users\\lenovo\\.cache\\selenium\\firefox\\win64\\137.0.2\\firefox.exe" "--marionette" "--remote-debuggi ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilexF8jZD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1745243979423	Marionette	INFO	Marionette enabled
+1745243979576	Marionette	INFO	Listening on port 53433
+Read port: 53433
+WebDriver BiDi listening on ws://127.0.0.1:53424
+1745243979633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53424/devtools/browser/56ad0a83-0853-4931-bb77-85e891e9abc7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://melivecode.com."
+JavaScript error: https://melivecode.com/login/login.js, line 19: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://melivecode.com."
+JavaScript error: https://melivecode.com/login/login.js, line 19: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://melivecode.com/login/login.js, line 19: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1745243986271	Marionette	INFO	Stopped listening on port 53433
+Dynamically enable window occlusion 1

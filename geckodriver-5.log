@@ -1,0 +1,18 @@
+1745243940227	geckodriver	INFO	Listening on 127.0.0.1:53373
+1745243943280	mozrunner::runner	INFO	Running command: "C:\\Users\\lenovo\\.cache\\selenium\\firefox\\win64\\137.0.2\\firefox.exe" "--marionette" "--remote-debuggi ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileQL2bn0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1745243943814	Marionette	INFO	Marionette enabled
+1745243943980	Marionette	INFO	Listening on port 53383
+WebDriver BiDi listening on ws://127.0.0.1:53374
+Read port: 53383
+1745243944169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core::database] Failed to record metric 'usage.profile_id' into usage-reporting: Error { kind: Rkv(IoError(Os { code: 5, kind: PermissionDenied, message: "Access is denied." })) }
+[ERROR glean_core::database] Failed to record metric 'usage.os' into usage-reporting: Error { kind: Rkv(IoError(Os { code: 5, kind: PermissionDenied, message: "Access is denied." })) }
+[ERROR glean_core::database] Failed to record metric 'usage.windows_build_number' into usage-reporting: Error { kind: Rkv(IoError(Os { code: 5, kind: PermissionDenied, message: "Access is denied." })) }
+DevTools listening on ws://127.0.0.1:53374/devtools/browser/56193109-5f5b-41b7-8ed8-cc032be49733
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://melivecode.com."
+1745243948634	Marionette	INFO	Stopped listening on port 53383
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotAllowedError: Could not write to `C:\Users\lenovo\AppData\Local\Temp\rust_mozprofileQL2bn0\sessionCheckpoints.json': could not move overwite with temporary file: Could not move `C:\Users\lenovo\AppData\Local\Temp\rust_mozprofileQL2bn0\sessionCheckpoints.json.tmp' to `C:\Users\lenovo\AppData\Local\Temp\rust_mozprofileQL2bn0\sessionCheckpoints.json' (NS_ERROR_FILE_ACCESS_DENIED)
